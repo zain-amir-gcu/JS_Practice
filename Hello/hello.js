@@ -7,5 +7,6 @@ let student = {
   name: "Jane",
     age: 22,
     isPass: true,
-    subjects: ["Math", "Science", "English"]
+    subjects: ["Math", "Science", "English"],
+    height: 1.75
 };
